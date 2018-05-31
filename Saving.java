@@ -2,7 +2,6 @@
 Submitted By: Darian Koarga
 Course: JAC444
 Date: May 31, 2018
-Id: 136296167
 Contains Task 4, Saving Account Implementation
 */
 public class Saving extends Account {
