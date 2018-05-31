@@ -2,7 +2,6 @@
 Submitted By: Darian Koarga
 Course: JAC444
 Date: May 30, 2018
-Id: 136296167
 Contains Task 3, Account implementation pt.2
 */
 
